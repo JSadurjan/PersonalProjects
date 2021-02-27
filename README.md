@@ -1,4 +1,4 @@
-You will find here all my projects 
+Vous trouverez ici la plupart de mes projets
 
 Jeu 2048 :
 Projet réalisé en duo avec un cahier des charges à respecter. Développement en Python 3 sous Jupyter et Sublime Text. 
