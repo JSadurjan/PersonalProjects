@@ -1,4 +1,4 @@
-Vous trouverez ici la plupart de mes projets universitaires
+Vous trouverez ici quelques-uns de mes projets universitaires
 
 Jeu 2048 :
 Projet réalisé en duo avec un cahier des charges à respecter. Développement en Python 3 sous Jupyter et Sublime Text. 
