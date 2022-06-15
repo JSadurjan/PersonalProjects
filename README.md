@@ -14,4 +14,13 @@ Compétences et connaissances acquises/améliorées: modélisation en UML, progr
 K-means :
 Projet réalisé seul. Développement en scala sous IntelliJ. 
 Ce projet est l'algorithme de clustering K-means. Il permet d’analyser des données et de regrouper les données “similaires” en clusters grâce à la comparaison de caractéristiques. Ici, on utilise le jeu de données "Iris" et on regroupe les fleurs selon la longueur des sépales et la largeur des pétales par exemple.
-Compétences et connaissances acquises/améliorées: programmation en Scala, connaissances en clustering, autonomie.  
+Compétences et connaissances acquises/améliorées: programmation en Scala, connaissances en clustering, autonomie.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Here, you will find some of my university projects
+
+Game 2048: Project carried out as a duo with specifications to be respected. Development in Python 3 under Jupyter and Sublime Text. This project consisted in creating a game like the game '2048'. Skills and knowledge acquired/improved: programming in Python, communication and team spirit.
+
+MMORPG game: Project carried out as a duo. A specification to be created. Global representation of the project thanks to diagrams in UML and coding in Java. Development under Eclipse and Modelio. This project is a local game where the main character must fight monsters to level up. There are also objects on the game map such as potions, clothes or weapons to improve your character. Skills and knowledge acquired/improved: modeling in UML, programming in Java, rigor, autonomy and project management.
+
+K-means: Project carried out alone. Development in scala under IntelliJ. This project is the K-means clustering algorithm. It allows you to analyze data and group “similar” data into clusters by comparing characteristics. Here, we use the "Iris" dataset and we group the flowers according to the length of the sepals and the width of the petals for example. Skills and knowledge acquired/improved: programming in Scala, knowledge of clustering, autonomy.
